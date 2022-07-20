@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T10:49:05.660Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="j7ld3RqZAmgYZEcP00Bc" version="20.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-20T10:55:46.004Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="0zjDPMjjbhWIvbgnbwdT" version="20.1.3" type="github">
   <diagram id="54K-75Eh2eTebeWGSddI" name="Sayfa -1">
     <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,27 +37,37 @@
         <mxCell id="zZSlNJt9BityNG6hSfXY-45" value="" style="dashed=0;html=1;shape=mxgraph.gmdl.plus;strokeColor=#ffffff;strokeWidth=2;shadow=0;sketch=0;dashPattern=1 1;fontSize=12;fontColor=#B3B3B3;" vertex="1" parent="zZSlNJt9BityNG6hSfXY-44">
           <mxGeometry x="7.142857142857142" y="7.142857142857142" width="5.7142857142857135" height="5.7142857142857135" as="geometry" />
         </mxCell>
-        <mxCell id="zZSlNJt9BityNG6hSfXY-46" value="" style="perimeter=none;dashed=0;shape=rect;fillColor=#ffffff;strokeColor=#eeeeee;shadow=1;dashPattern=1 1;fontSize=12;fontColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="53" y="130" width="170" height="168" as="geometry" />
+        <mxCell id="zZSlNJt9BityNG6hSfXY-46" value="" style="perimeter=none;dashed=1;shape=rect;shadow=1;dashPattern=1 1;fontSize=12;strokeWidth=1;perimeterSpacing=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="53" y="130" width="170" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="zZSlNJt9BityNG6hSfXY-47" value="Refresh" style="text;verticalAlign=middle;fontSize=15;spacing=16;resizeWidth=1;dashed=1;dashPattern=1 1;fontColor=#3399FF;strokeWidth=3;fillColor=#66B2FF;" vertex="1" parent="zZSlNJt9BityNG6hSfXY-46">
+        <mxCell id="zZSlNJt9BityNG6hSfXY-47" value="Dashboard" style="text;verticalAlign=middle;fontSize=15;spacing=16;resizeWidth=1;dashed=1;dashPattern=1 1;strokeWidth=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="zZSlNJt9BityNG6hSfXY-46">
           <mxGeometry width="170" height="42" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zZSlNJt9BityNG6hSfXY-48" value="Help &amp; feedback" style="text;verticalAlign=middle;fontSize=15;spacing=16;resizeWidth=1;dashed=1;dashPattern=1 1;fontColor=#3399FF;strokeWidth=3;fillColor=#66B2FF;" vertex="1" parent="zZSlNJt9BityNG6hSfXY-46">
+        <mxCell id="zZSlNJt9BityNG6hSfXY-48" value="Calendar" style="text;verticalAlign=middle;fontSize=15;spacing=16;resizeWidth=1;dashed=1;dashPattern=1 1;strokeWidth=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="zZSlNJt9BityNG6hSfXY-46">
           <mxGeometry width="170" height="42" relative="1" as="geometry">
             <mxPoint y="42" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zZSlNJt9BityNG6hSfXY-49" value="Settings" style="text;verticalAlign=middle;fontSize=15;spacing=16;resizeWidth=1;dashed=1;dashPattern=1 1;fontColor=#3399FF;strokeWidth=3;fillColor=#66B2FF;" vertex="1" parent="zZSlNJt9BityNG6hSfXY-46">
+        <mxCell id="zZSlNJt9BityNG6hSfXY-49" value="Projects" style="text;verticalAlign=middle;fontSize=15;spacing=16;resizeWidth=1;dashed=1;dashPattern=1 1;strokeWidth=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="zZSlNJt9BityNG6hSfXY-46">
           <mxGeometry width="170" height="42" relative="1" as="geometry">
             <mxPoint y="84" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zZSlNJt9BityNG6hSfXY-50" value="Sign out" style="text;verticalAlign=middle;fontSize=15;spacing=16;resizeWidth=1;dashed=1;dashPattern=1 1;fontColor=#3399FF;strokeWidth=3;fillColor=#66B2FF;" vertex="1" parent="zZSlNJt9BityNG6hSfXY-46">
+        <mxCell id="zZSlNJt9BityNG6hSfXY-50" value="Employees" style="text;verticalAlign=middle;fontSize=15;spacing=16;resizeWidth=1;dashed=1;dashPattern=1 1;strokeWidth=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="zZSlNJt9BityNG6hSfXY-46">
           <mxGeometry width="170" height="42" relative="1" as="geometry">
-            <mxPoint y="126" as="offset" />
+            <mxPoint y="125" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZSlNJt9BityNG6hSfXY-116" value="Reports" style="text;verticalAlign=middle;fontSize=15;spacing=16;resizeWidth=1;dashed=1;dashPattern=1 1;strokeWidth=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="zZSlNJt9BityNG6hSfXY-46">
+          <mxGeometry width="170" height="42" relative="1" as="geometry">
+            <mxPoint y="167" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZSlNJt9BityNG6hSfXY-117" value="Settings" style="text;verticalAlign=middle;fontSize=15;spacing=16;resizeWidth=1;dashed=1;dashPattern=1 1;strokeWidth=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="zZSlNJt9BityNG6hSfXY-46">
+          <mxGeometry width="170" height="42" relative="1" as="geometry">
+            <mxPoint y="208" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
